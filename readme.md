@@ -32,7 +32,7 @@ Bienvenue dans [animals] ! Ce projet parcourt [la banque d'images de Google et r
     - Sur Windows :
 
         ```bash
-        .\venv\Scripts\activate
+        env/Scripts/activate
         ```
 
     - Sur MacOS/Linux :
